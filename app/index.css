@@ -1,0 +1,14 @@
+li {
+  list-style-type: none;
+}
+
+.foods {
+  display: flex;
+  justify-content: center;
+}
+
+.foods li {
+  margin: 10px;
+  font-weight: bold;
+  cursor: pointer;
+}
